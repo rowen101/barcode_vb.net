@@ -1,0 +1,20 @@
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\BarcodeApp VB.Net.exe.config
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\BarcodeApp VB.Net.exe
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\BarcodeApp VB.Net.pdb
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\BarcodeApp VB.Net.xml
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\MetroFramework.Design.dll
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\MetroFramework.dll
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\zxing.dll
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\zxing.presentation.dll
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\zxing.xml
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\bin\Debug\zxing.presentation.xml
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp VB.Net.vbprojAssemblyReference.cache
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp_VB.Net.Form1.resources
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp_VB.Net.Resources.resources
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp VB.Net.vbproj.GenerateResource.cache
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp VB.Net.vbproj.CoreCompileInputs.cache
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp VB.Net.vbproj.CopyComplete
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp VB.Net.exe
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp VB.Net.xml
+C:\Users\rowen\source\repos\BarcodeApp VB.Net\BarcodeApp VB.Net\obj\Debug\BarcodeApp VB.Net.pdb
