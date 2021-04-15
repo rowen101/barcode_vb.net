@@ -156,7 +156,7 @@ Partial Class Form1
         Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.Resizable = False
-        Me.Text = "Barcode generator"
+        Me.Text = "Barcode scanner"
         CType(Me.pic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
